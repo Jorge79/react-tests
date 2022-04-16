@@ -2,6 +2,12 @@
 
 > The users can make withdrawal or deposit transactions
 
+<div style="display=flex; text-align:center;">
+  <img src="./src/public/conta.png" alt="about image" style="width:29%;"/>
+  <img src="./src/public/tests.png" alt="city's image" style="width:29%;"/>
+</div>
+
+<br>
 
 What i learnt with this project:
 
@@ -53,7 +59,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-
-
